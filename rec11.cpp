@@ -17,6 +17,9 @@ using namespace std;
  -jbs
  */
 
+
+//bruh does this work
+
 // Node to be used a part of linked list
 struct Node {
     Node(int data = 0, Node* next = nullptr) : data(data), next(next) {}
